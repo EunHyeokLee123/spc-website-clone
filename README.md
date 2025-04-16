@@ -34,7 +34,7 @@
 - https://docs.google.com/spreadsheets/d/1ReRhyIJEG-NC298EsH2l-PHaJy-ahWPUo5n69usneC8/edit?gid=0#gid=0
 
 ## 소스코드
-   ![설명 텍스트](src/assets/imgsub/테스트 케이스/ESG 버튼에 따른 화면 렌더링 변화 및 이미지 호버 및 보고서 다운로드.gif)
+   ![설명 텍스트](../src/assets/imgsub/테스트 케이스/ESG 버튼에 따른 화면 렌더링 변화 및 이미지 호버 및 보고서 다운로드.gif)
 - github에 업로드 완료.
 
 ## 회고
