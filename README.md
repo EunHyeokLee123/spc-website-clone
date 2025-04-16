@@ -32,8 +32,8 @@
 ## 요구사항 정의서
 
 - https://docs.google.com/spreadsheets/d/1ReRhyIJEG-NC298EsH2l-PHaJy-ahWPUo5n69usneC8/edit?gid=0#gid=0
-
-
+##  테스트 케이스
+<img src="https://github.com/EunHyeokLee123/spc-website-clone/tree/main/src/assets/imgsub/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BC%80%EC%9D%B4%EC%8A%A4" alt="테스트케이스">
 
 ## 회고
 
